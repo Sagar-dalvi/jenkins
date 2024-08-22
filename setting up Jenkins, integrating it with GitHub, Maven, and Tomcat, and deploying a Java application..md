@@ -85,7 +85,7 @@ integrating it with GitHub, Maven, and Tomcat, and deploying a Java application.
    - Switch to `/opt` directory and download Maven:
      ```bash
      cd /opt
-     sudo wget https://downloads.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz
+     sudo wget https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.tar.gz
      sudo tar xzvf apache-maven-3.8.6-bin.tar.gz
      sudo mv apache-maven-3.8.6 maven
      ```
